@@ -20,22 +20,22 @@ This project is a Password Generator App built with React. It allows users to ge
 
 **Clone this repository:**
 
-bash
+
 git clone https://github.com/bananou/password-generator-app.git
 
 **Navigate to the project folder:**
 
-bash
+
 cd password-generator-app
 
 **Install the dependencies:**
 
-bash
+
 npm install
 
 **Start the development server:**
 
-bash
+
 npm start
 
 **The app will be available at http://localhost:3000.**
